@@ -1,7 +1,7 @@
 ![Header](./github-header-image-ha.png)
 
 <h3 align="left">About me:</h3>
-<p align="left">5+ years professional experience as software engineer. Skilled in React, NodeJS, Restfull API.
+<p align="left">6+ years professional experience as software engineer. Skilled in React, NodeJS, Restfull API.
 Specialised in frontend development and backend development.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, teamwork and clean code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.</p>
